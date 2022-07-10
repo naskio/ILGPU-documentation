@@ -8,6 +8,7 @@
 jekyll serve --config _config.yml,_config.development.yml
 # or
 jekyll serve --baseurl ""
+jekyll serve --baseurl=""
 ```
 
 ## Production
