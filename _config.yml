@@ -38,9 +38,9 @@ github_username: naskio
 #remote_theme: just-the-docs/just-the-docs
 #remote_theme: Huxpro/huxpro.github.io
 #remote_theme: daattali/beautiful-jekyll
-#remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 #remote_theme: rohanchandra/type-theme
-remote_theme: huangyz0918/moving
+#remote_theme: huangyz0918/moving
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
