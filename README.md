@@ -16,10 +16,13 @@ jekyll serve --baseurl=""
 The website will be built and deployed automatically by GitHub.
 
 
-## Create symbolic link
+## Create links
 
 ```shell
+# symbolic link
 ln -s [SOURCE] [TARGET]
 ln -s Docs/ _posts
-ln -s old_posts/hello.md hello.md
+ln -s excluded_folder/hello.md hello.md
+# hard link
+sudo gln -d ../Docs _posts
 ```

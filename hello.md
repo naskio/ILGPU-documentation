@@ -1,1 +1,1 @@
-old_posts/hello.md
+excluded_folder/hello.md

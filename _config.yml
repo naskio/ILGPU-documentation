@@ -51,8 +51,8 @@ plugins:
 exclude:
   - README.md
   - LICENSE
-  - old_posts/ # symlinked files can be excluded
-  # - Docs/ # symlinked folder shouldn't be excluded
+  - excluded_folder/ # symlinked files can be excluded
+  - old_posts/ # symlinked _posts/ can be excluded
 
 # Exclude from processing.
 # The following items will not be processed, by default.

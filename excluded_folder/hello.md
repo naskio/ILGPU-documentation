@@ -1,5 +1,5 @@
 ---
-permalink: hello
+permalink: hello-world
 ---
 
 # Hello World
