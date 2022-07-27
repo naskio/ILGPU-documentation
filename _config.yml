@@ -53,6 +53,7 @@ exclude:
   - LICENSE
   - excluded_folder/ # symlinked files can be excluded
   - old_posts/ # symlinked _posts/ can be excluded
+  - Docs/ # ignoring generating pages from Docs/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
